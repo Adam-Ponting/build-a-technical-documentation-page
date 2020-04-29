@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  font-size: 16px;
+}
+body {
+  margin: 0;
+}
+@media only screen and (min-width: 600px) {
+  body {
+    background: red;
+    position: relative;
+  }
+  #navbar {
+    display: block;
+    position: fixed;
+    top: 0;
+    background-color: yellow;
+    padding: 50px;
+    font-size: 20px;
+  }
+  #main-doc {
+    margin-left: 400px;
+  }
+}
