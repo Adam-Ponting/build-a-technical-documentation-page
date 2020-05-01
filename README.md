@@ -5,4 +5,4 @@ I have built up a tribute page with the same style and functions as the template
 
 freeCodeCamp version: https://codepen.io/freeCodeCamp/full/NdrKKL
 
-My version: https://codepen.io/mada_uk/pen/WNQZZXV
+My version: https://codepen.io/mada_uk/full/WNQZZXV
